@@ -15,7 +15,7 @@ we design a novel programming language correction  framework  amenable  to  rein
 demonstrate that the agent can be trained through
 self-exploration directly from the raw input, that is,
 program text itself, without any knowledge of the
-formal syntax of the programming language.   We
+formal syntax of the programming language. We
 leverage expert demonstrations for one tenth of the
 training data to accelerate training.  The proposed
 technique  is  evaluated  on 6975
